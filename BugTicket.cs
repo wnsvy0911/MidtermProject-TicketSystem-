@@ -18,8 +18,5 @@ namespace TicketingSystem
         {
            this.severity = severity;
         }
-
-
-
     }
 } 
